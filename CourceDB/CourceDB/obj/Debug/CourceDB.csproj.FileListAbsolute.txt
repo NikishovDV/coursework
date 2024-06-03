@@ -1,0 +1,74 @@
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.AssemblyReference.cache
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.Properties.Resources.resources
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.GenerateResource.cache
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.CoreCompileInputs.cache
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\CourceDB.exe.config
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\CourceDB.exe
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\CourceDB.pdb
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\MySql.Data.dll
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\System.Memory.dll
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\System.Buffers.dll
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\bin\Debug\MySql.Data.xml
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.CopyComplete
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.exe
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.pdb
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.MainForm.resources
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.Login.resources
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.TovarForm.resources
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.AddTovar.resources
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.CartForm.resources
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.CreateSale.resources
+C:\Учеба\БД\курсовая\CourceDB\CourceDB\obj\Debug\CourceDB.SaleForm.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\bin\Debug\CourceDB.exe.config
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\bin\Debug\CourceDB.exe
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\bin\Debug\CourceDB.pdb
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\bin\Debug\System.Memory.dll
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\bin\Debug\System.Buffers.dll
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.AssemblyReference.cache
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.AddTovar.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.CreateSale.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.MainForm.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.Login.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.CartForm.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.SaleForm.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.TovarForm.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.Properties.Resources.resources
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.GenerateResource.cache
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.CopyComplete
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.exe
+C:\Users\nikis\Downloads\Курсовая\курсач\WF\CourceDB\CourceDB\obj\Debug\CourceDB.pdb
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\bin\Debug\CourceDB.exe.config
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\bin\Debug\CourceDB.exe
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\bin\Debug\CourceDB.pdb
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\bin\Debug\System.Memory.dll
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\bin\Debug\System.Buffers.dll
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\bin\Debug\MySql.Data.xml
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.AssemblyReference.cache
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.AddTovar.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.CreateSale.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.MainForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.Login.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.CartForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.SaleForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.TovarForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.Properties.Resources.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.GenerateResource.cache
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.CoreCompileInputs.cache
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.csproj.CopyComplete
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.exe
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.pdb
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.AddFabricatorForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.AddBrandForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.AddColorForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.AddNameForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.AddStaffForm.resources
+C:\Users\nikis\OneDrive\Рабочий стол\CourceDB\CourceDB\obj\Debug\CourceDB.AddMaterialForm.resources
